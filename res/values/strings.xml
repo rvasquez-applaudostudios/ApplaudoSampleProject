@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Phunware Homework</string>
+    <string name="title_venue_detail">Venue Detail</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_call">Call</string>
+    <string name="menu_buy_tickets">Buy Tickets</string>
+    <string name="schedules">SCHEDULES</string>
+    <string name="venue_info">VENUE INFO</string>
+    <string name="network_error">Network Error</string>
+    <string name="share_via">Share via:</string>
+    <string name="no_tickets_available">No tickets available at this time.</string>
+
+</resources>
